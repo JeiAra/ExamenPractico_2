@@ -2,14 +2,11 @@
 
 CV / portafolio web para el Segundo Examen Práctico (Unidad II) de Tecnologías Web I, Universidad Católica Boliviana “San Pablo”.
 
-> **Antes de entregar:** verifica que los datos y proyectos estén correctos, confirma el nombre del repositorio y prueba las dos URL públicas. Esta versión usa la foto y los datos de la hoja de vida proporcionada. La fecha de nacimiento se omitió para evitar publicar un dato personal que no es necesario en un portafolio.
-
 ## Enlaces de publicación
 
 - **Repositorio GitHub:** https://github.com/JeiAra/SIS214_ExamenPractico2_MontanoArantza
 - **GitHub Pages:** https://jeiara.github.io/SIS214_ExamenPractico2_MontanoArantza/
 
-Comprueba que ambas URL correspondan a tu cuenta y que Pages esté habilitado. Estos enlaces están copiados de la configuración anterior del proyecto; no se ha verificado desde aquí que el despliegue esté activo.
 
 ## Tecnologías
 
@@ -62,13 +59,8 @@ En GitHub abre el repositorio → **Settings** → **Pages**. En *Build and depl
 
 Los commits deben representar cambios reales, pequeños y comprobados. Consulta `GUIA_GIT_Y_ENTREGA.md` para los pasos de publicación y entrega en Moodle.
 
-## Personalizar la foto de perfil
-
-Por ahora, `images/foto-perfil.svg` es una ilustración temporal para que el diseño no muestre una imagen rota. Cuando tengas tu foto, guárdala dentro de `images/` (por ejemplo, `foto-perfil.jpg`) y cambia el atributo `src` de `.profile-photo` en `index.html` a `images/foto-perfil.jpg`. Usa una foto que te sientas cómoda haciendo pública.
 
 ## Datos personales y privacidad
 
-- Se incluyeron el nombre completo, carrera, universidad, formación previa, habilidades, idiomas, correo, teléfono, ciudad y la fotografía del CV proporcionado.
-- La fecha de nacimiento no se muestra en la página porque no es necesaria para un portafolio público.
-- La lista de proyectos contiene My Virtual Buddy y este portafolio de examen. Comprueba que las descripciones reflejen con precisión tu trabajo antes de publicar.
-- El formulario de contacto es demostrativo: valida los datos, pero no envía correos ni guarda mensajes.
+- Se incluyo mi nombre completo, carrera, universidad, formación previa, habilidades, idiomas, correo, teléfono, ciudad y la fotografía del CV.
+- La lista de proyectos contiene My Virtual Buddy y este portafolio de examen.
